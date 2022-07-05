@@ -1,5 +1,6 @@
 
 <h1>stepik-fullname-printer</h1>
+![](jusanLogo.png)
 <br>
 Данный скрипт выводит мои ФИО.
 <h2>Возможности</h2>
